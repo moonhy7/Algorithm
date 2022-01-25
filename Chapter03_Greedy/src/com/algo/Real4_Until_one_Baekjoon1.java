@@ -2,7 +2,7 @@ package com.algo;
 
 import java.util.Scanner;
 
-public class Until_one_Baekjoon1 {
+public class Real4_Until_one_Baekjoon1 {
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

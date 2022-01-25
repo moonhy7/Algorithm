@@ -2,7 +2,7 @@ package com.algo;
 
 import java.util.Scanner;
 
-public class Until_one {
+public class Real4_Until_one {
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

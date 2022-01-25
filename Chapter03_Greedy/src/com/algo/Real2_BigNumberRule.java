@@ -3,7 +3,7 @@ package com.algo;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class BigNumberRule {
+public class Real2_BigNumberRule {
 	
 	public static void main(String[] args) {
 		

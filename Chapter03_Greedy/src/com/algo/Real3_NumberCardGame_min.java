@@ -2,7 +2,7 @@ package com.algo;
 
 import java.util.Scanner;
 
-public class NumberCardGame_min {
+public class Real3_NumberCardGame_min {
 	
 	public static void main(String[] args) {
 		
