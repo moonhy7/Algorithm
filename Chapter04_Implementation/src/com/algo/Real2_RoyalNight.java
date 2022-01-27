@@ -27,6 +27,7 @@ public class Real2_RoyalNight {
 		}
 		
 		System.out.println(cnt);
+		 
 		
 	}
 }
